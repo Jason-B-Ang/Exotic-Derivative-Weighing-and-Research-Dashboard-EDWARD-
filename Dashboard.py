@@ -21,3 +21,7 @@ class options(Investment_Dashboard):
 class swaps(Investment_Dashboard):
     def __init__(self):
         pass
+
+
+if __name__ == '__main__':
+    pass
